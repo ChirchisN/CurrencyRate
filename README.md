@@ -4,7 +4,7 @@
 
 ### App/Admin Credentials
 Username: admin@admin.com  
-Password: password
+Password: password  
 Link: /admin
 
 ###Schedule running
